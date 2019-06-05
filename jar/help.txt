@@ -1,0 +1,5 @@
+To make the jar file:
+jar -cfve Spirit.jar Main Main.class file/AbstractStream.class gui/Bouton.class algorithm/Giver.class graph/BarGraphs.class algorithm/Computer.class algorithm/GiverStats.class algorithm/Binder.class gui/Bouton\$1.class gui/Bouton\$2.class gui/Fenetre.class file/StreamEmotion.class file/StreamDate.class file/Date.txt file/Emotion.txt 
+
+To run the jar file:
+Java -jar Spirit.jar
