@@ -16,6 +16,7 @@ Then you can type in:
 ```
 
 Enjoy!
+<<<<<<< HEAD
 
 
 ##Home
@@ -83,3 +84,5 @@ The chart represents the evolution of your sport activity over the course of the
 
 ##Spirits XY Line ChartPanel (Weight Record)
 The chart represents the evolution of your weight in kgs over the course of the whole process.
+=======
+>>>>>>> 3a246809876c84da5db7d9283a4ccf013ceb3b49
